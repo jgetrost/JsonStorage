@@ -1,0 +1,17 @@
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\JsonStorage
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\appsettings.Development.json
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\appsettings.json
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\JsonStorage.dll
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\JsonStorage.deps.json
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\JsonStorage.runtimeconfig.json
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\JsonStorage.pdb
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\Microsoft.Data.Sqlite.dll
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\Microsoft.OpenApi.dll
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\SQLitePCLRaw.batteries_v2.dll
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\SQLitePCLRaw.core.dll
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\james\JsonStorage\bin\Development\net7.0\linux-x64\publish\libe_sqlite3.so
